@@ -9,6 +9,6 @@ colored ASCII-Art. You have to expirement with the scale, it depends on the imag
 
 ## References
 This python script requires you to install Pillow. Pillow can be found here: https://pypi.org/project/Pillow/
-If you don't want to do that, then you can use the executable that was generated using Auto-Py-To-Exe.
-You can find it here: https://pypi.org/project/auto-py-to-exe/
+If you don't want to do that, then you can use the executable that was generated using Auto-Py-To-Exe, wich
+you can find here: https://pypi.org/project/auto-py-to-exe/
 And don't worry, it's a false positive virus, a common known problem with Auto-Py-To-Exe.
