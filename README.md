@@ -4,7 +4,7 @@
 This is a Python based Program, that allows you to select an JPEG-Image to convert it in
 colored ASCII-Art. You have to expirement with the scale, it depends on the image size.
 
-**An Example of my dog Billie:**
+**An Example of my dog Billie (you might need to zomm a little bit):**
 ![example](https://user-images.githubusercontent.com/85063182/120223571-0f953980-c242-11eb-8d32-759769036d34.png)
 
 ## References
