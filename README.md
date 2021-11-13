@@ -12,3 +12,10 @@ This python script requires you to install Pillow. Pillow can be found here: htt
 If you don't want to do that, then you can use the executable that was generated using Auto-Py-To-Exe, wich
 you can find here: https://pypi.org/project/auto-py-to-exe/
 And don't worry, it's a false positive virus, a common known problem with Auto-Py-To-Exe.
+
+## Note
+You can also make this work on linux by replacing line 14 with:
+```python
+font = PIL.ImageFont.truetype("font.ttf")
+```
+And then you just need to put your desired font as font.ttf into the directory.
