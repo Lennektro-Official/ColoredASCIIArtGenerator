@@ -14,7 +14,7 @@ you can find here: https://pypi.org/project/auto-py-to-exe/
 And don't worry, it's a false positive virus, a common known problem with Auto-Py-To-Exe.
 
 ## Note
-You can also make this work on linux by replacing line 14 with:
+You can also make this work on Linux by replacing line 14 with:
 ```python
 font = PIL.ImageFont.truetype("font.ttf")
 ```
