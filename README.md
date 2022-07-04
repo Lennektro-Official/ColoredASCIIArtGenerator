@@ -20,7 +20,3 @@ font = PIL.ImageFont.truetype("font.ttf")
 ```
 And then you just need to put your desired font as font.ttf into the directory. You also need to install tkinter
 for Linux if you haven't already.
-```
-sudo apt update
-sudo apt-get install python3-tk
-```
